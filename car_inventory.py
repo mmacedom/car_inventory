@@ -1,8 +1,3 @@
-# Assignment #2
-# INF1340 Section 2
-# Fall-2017
-# Mateus Macedo
-
 
 # MENU FUNCTION
 def menu(inventory_size):
